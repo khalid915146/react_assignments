@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  text-align: center;
+  border:solid rgb(24, 102, 112) 5px;
+  margin: 550px;
+  margin-top: 50px;
+  
+}
+img{
+  border-radius: 10px;
+  height: 30vh;
+  width: 23vw;
+  margin-top: 15px;
+}
+h1,h2,p{
+
+  text-align: left;
+  margin-left: 25px;
+}
+h1{
+  font-size: 50px;
+  font: bolder;
+  color: rgb(18, 147, 228);
+  margin-top: 10px;
+  margin-bottom: -10px;
+}
+p{
+    color: grey;
+    margin-bottom: -18px;
+    font-weight: bolder;
+    margin-top: 15px;
+  }
